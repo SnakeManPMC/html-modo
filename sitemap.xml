@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://www.pmctactical.org/modo/index.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/ngon.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/links-videos.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/backdrop-item-howto-use-blueprints.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/polygon-reduction-tool.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/duplicate-clone-tool.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/vertex-map-weight.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/create-face.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/create-vertex.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/selection-set.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/arma3-modo-p3d-plugin.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/geometry-mass.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/auto-save.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/basic-controls.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/vertices-merge.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/event-log.php</loc>
+</url>
+<url>
+  <loc>https://www.pmctactical.org/modo/config.php</loc>
+</url>
+
+<url>
+  <loc>https://www.pmctactical.org/modo/</loc>
+</url>
+</urlset>

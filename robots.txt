@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: 
+Sitemap: https://www.pmctactical.org/modo/sitemap.xml
