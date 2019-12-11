@@ -66,7 +66,7 @@ Where are my UV maps? (click for high res image):<br>
 </p>
 
 <p>
-ArmA 3 uses only UV Set 0. When you create brand new geometry / mesh in modo, it places UV's into "Texture" named UV set, you need to move the UVs into UV set 0.
+When you create brand new geometry / mesh in modo, it places UV's into "Texture" named UV set, you need to move the UVs into UV set 0.
 </p>
 
 <p>
