@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical modo Links Videos</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>modo Videos</h2>
 <p>
 <a href="https://www.youtube.com/channel/UC3gcz4qAcvMtrVCiRZvEnzg" target="_blank">youtube - modo geeks</a><br>
@@ -38,13 +41,17 @@ These video makers were recommended in PMC discord #general channel.<br>
 <a href="https://www.youtube.com/watch?v=NYrhCA72__0" target="_blank">youtube - Modeling Trees in modo</a> haven't watched it yet but topic is very interesting.<br>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC modo root page</a></p>
 <br><br>
 <p><i>PMC modo 2019 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

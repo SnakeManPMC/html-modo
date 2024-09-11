@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical ArmA 3 modo P3D Plugin</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>ArmA 3 modo P3D Plugin</h2>
 <p>
 Ian Banks made modo plugin for arma3 p3d model file format: <a href="https://foxhound.international/modo-plugin" target="_blank">foxhound modo-plugin</a>.
@@ -85,18 +88,18 @@ Select the material/texture you want to RVMAT to be added, choose Add Layer -> G
 <p>
 Shader tree, default material. You do not need it for arma3 p3d's, you can delete it. But on the other hand, it doesn't hurt either.
 </p>
-<!--
-	<h2></h2>
-<p>
-</p>
--->
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC modo root page</a></p>
 <br><br>
 <p><i>PMC modo 2019 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>PMC modo Info</h1>
 <p>Welcome to our small modo info / help website. This site is not trying to replace millions of other modo resources in the internet, this is just <i>ours</i>.</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>PMC modo Info</h2>
 <p>
 <b>2019-11-28T1523</b> these pages look really ugly, if you want to help improving the color scheme or design please let Snake Man know in PMC discord ;)
@@ -40,18 +43,16 @@
 <p><a href="selection-set.php">Selection Set</a></p>
 <p><a href="vertex-map-weight.php">Vertex Map Weight</a></p>
 <p><a href="vertices-merge.php">Vertices Merge</a></p>
-<!--
-<p>
-<a href=""></a>
-</p>
-<p>
-</p>
--->
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><i>PMC modo 2019 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

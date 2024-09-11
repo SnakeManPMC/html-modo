@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical modo Vertex Map Weight</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>modo Vertex Map Weight</h2>
 <p>
 When editing vertex maps for weights, use the vertex map display mode (viewport top left corner, middle dropdown). Ugly green is no weight and it changes towards red as you add weights.
@@ -28,13 +31,17 @@ When editing vertex maps for weights, use the vertex map display mode (viewport 
 Important note: if you already have weights and you want to update them, modo will reset them to zero so you kind of have to set them twice (first it goes to zero then you add the number that sticks).
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC modo root page</a></p>
 <br><br>
 <p><i>PMC modo 2019 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

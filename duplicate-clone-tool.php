@@ -14,11 +14,14 @@
 <body>
 
 <header>
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Tactical modo Duplicate Clone Tool</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>modo Duplicate Clone Tool</h2>
 <p>
 Its great for cloning identical mesh parts.
@@ -29,13 +32,17 @@ Click for high res image.
 </p>
 <a href="images/Duplicate-Clone-Tool.png" target="_blank"><img src="images/Duplicate-Clone-Tool.png" alt="modo Duplicate Clone Tool" style="width:256px;height:256px;"></a>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC modo root page</a></p>
 <br><br>
 <p><i>PMC modo 2019 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
