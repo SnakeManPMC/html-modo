@@ -6,54 +6,54 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.pmctactical.org/modo/index.php</loc>
+  <loc>https://modo.pmctactical.org/index.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/ngon.php</loc>
+  <loc>https://modo.pmctactical.org/ngon.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/links-videos.php</loc>
+  <loc>https://modo.pmctactical.org/links-videos.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/backdrop-item-howto-use-blueprints.php</loc>
+  <loc>https://modo.pmctactical.org/backdrop-item-howto-use-blueprints.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/polygon-reduction-tool.php</loc>
+  <loc>https://modo.pmctactical.org/polygon-reduction-tool.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/duplicate-clone-tool.php</loc>
+  <loc>https://modo.pmctactical.org/duplicate-clone-tool.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/vertex-map-weight.php</loc>
+  <loc>https://modo.pmctactical.org/vertex-map-weight.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/create-face.php</loc>
+  <loc>https://modo.pmctactical.org/create-face.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/create-vertex.php</loc>
+  <loc>https://modo.pmctactical.org/create-vertex.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/selection-set.php</loc>
+  <loc>https://modo.pmctactical.org/selection-set.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/arma3-modo-p3d-plugin.php</loc>
+  <loc>https://modo.pmctactical.org/arma3-modo-p3d-plugin.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/geometry-mass.php</loc>
+  <loc>https://modo.pmctactical.org/geometry-mass.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/auto-save.php</loc>
+  <loc>https://modo.pmctactical.org/auto-save.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/basic-controls.php</loc>
+  <loc>https://modo.pmctactical.org/basic-controls.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/vertices-merge.php</loc>
+  <loc>https://modo.pmctactical.org/vertices-merge.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/event-log.php</loc>
+  <loc>https://modo.pmctactical.org/event-log.php</loc>
 </url>
 <url>
-  <loc>https://www.pmctactical.org/modo/config.php</loc>
+  <loc>https://modo.pmctactical.org/config.php</loc>
 </url>
 </urlset>
